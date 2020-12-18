@@ -7,7 +7,7 @@ export default function card(props) {
       <div class="card">
         <img class="card--avatar" src={image} />
         <p class="card--title">{title}</p>
-        <a class="card--link" href={link}>
+        <a target="_blank" rel="noopener noreferrer" class="card--link" href={link}>
           Visit 🧿
         </a>
       </div>

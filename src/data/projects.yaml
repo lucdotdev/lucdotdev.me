@@ -1,18 +1,11 @@
-- title: Gatsby-Minimal-Portfolio
-  image: https://maedahbatool.com/wp-content/uploads/2017/08/The-new-bluehost.jpg
-  link: /projects
-- title: Your-Project-Name
-  image: https://images7.alphacoders.com/679/thumb-1920-679140.png
-  link: /projects
-- title: Dreamy-Keanu-Gallery
-  image: https://redwerk.com/wp-content/uploads/2019/10/f-image.png
-  link: /projects
-- title: Gatsby-Dynamic-Pages
-  image: http://getwallpapers.com/wallpaper/full/0/0/b/14916.jpg
-  link: /projects
-- title: Qr-Code-Application
-  image: https://redwerk.com/wp-content/uploads/2019/10/f-image.png 
-  link: /projects
-- title: Gatsy-Memeto_Blogpost
-  image: https://miro.medium.com/max/4200/1*TsNtjHqx2k8wIwkHuMRpww.jpeg
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Hover Ussd Plugin
+  image: https://raw.githubusercontent.com/lucdotdev/hover_ussd/master/docs/hover.png
+  link:  https://github.com/lucdotdev/hover_ussd
+
+- title: Pong Game
+  image: https://camo.githubusercontent.com/8c0795271066ae501849863a14a1510487be780b7c53e6a6e4f493588917652e/687474703a2f2f72696b616e697368752e6769746875622e696f2f696d616765732f63616e762e706e67
+  link: https://github.com/lucdotdev/flutpong
+
+- title: Covid Alert App
+  image: https://raw.githubusercontent.com/lucdotdev/alert-covid/master/screenshot/Screenshot_20200320-101438.jpg
+  link: https://github.com/lucdotdev/alert-covid
