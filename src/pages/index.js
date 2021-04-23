@@ -15,7 +15,7 @@ const IndexPage = () => (
 
       <p className="para">I'm a software engineer based in DRC</p>
       <h3>
-        I Build mobile and web <br /> applications.
+        I 💙 Build mobile and web <br /> applications.
       </h3>
 
       <div className="btnrow">
@@ -25,7 +25,7 @@ const IndexPage = () => (
           </a>
         </button>
         <button className="button">
-          <a className="btnlink" href="https://twitter.com/lucdotdev">
+          <a className="btnlink" href="https://github.com/lucdotdev">
             &nbsp;Resume&nbsp;
           </a>
         </button>

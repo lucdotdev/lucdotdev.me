@@ -1,11 +1,18 @@
-- title: Hover Ussd Plugin
-  image: https://raw.githubusercontent.com/lucdotdev/hover_ussd/master/docs/hover.png
-  link:  https://github.com/lucdotdev/hover_ussd
 
-- title: Pong Game
-  image: https://camo.githubusercontent.com/8c0795271066ae501849863a14a1510487be780b7c53e6a6e4f493588917652e/687474703a2f2f72696b616e697368752e6769746875622e696f2f696d616765732f63616e762e706e67
-  link: https://github.com/lucdotdev/flutpong
+- title: Ngoma App
+  image: https://lh3.googleusercontent.com/proxy/zDjLqVbfWZDoMqjV3j5idmjprdcdK4fzGYnntLXGafWMX5gdL5yDqb1xyl0-koNvrQmMZ92WJTah_3ACSPUZG2kWob1mbG68j7cGMlGU3a3yxpO6zbbIkcg9AJiIetK5Lww3hg
+  link: https://ngoma.app
+  desc: A affrican music plateform
+
+- title: Ngoma Admin
+  image: https://lh3.googleusercontent.com/proxy/zDjLqVbfWZDoMqjV3j5idmjprdcdK4fzGYnntLXGafWMX5gdL5yDqb1xyl0-koNvrQmMZ92WJTah_3ACSPUZG2kWob1mbG68j7cGMlGU3a3yxpO6zbbIkcg9AJiIetK5Lww3hg
+  link: https://admin.ngoma.app
+  desc: A affrican music plateform
 
 - title: Covid Alert App
   image: https://raw.githubusercontent.com/lucdotdev/alert-covid/master/screenshot/Screenshot_20200320-101438.jpg
   link: https://github.com/lucdotdev/alert-covid
+
+- title: Hover Ussd Plugin
+  image: https://raw.githubusercontent.com/lucdotdev/hover_ussd/master/docs/hover.png
+  link:  https://github.com/lucdotdev/hover_ussd
